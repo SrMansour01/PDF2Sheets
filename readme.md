@@ -14,7 +14,7 @@ Antes de usar este projeto, certifique-se de ter o seguinte instalado e configur
 
 1. Clone este repositório:
 ```
-git clone https://github.com/seu-usuario/PDF2Sheetes.git
+git clone https://github.com/SrMansour01/PDF2Sheetes.git
 ```
 
 2. Navegue até o diretório do projeto:
